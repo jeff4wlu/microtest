@@ -1,0 +1,55 @@
+
+
+
+
+
+version: '2'
+
+services:
+  invoice:
+    build: ./invoice
+    container_name: invoice
+    volumes:
+      - ./invoice/log:/usr/src/app/log
+    networks:
+         mynet:
+            ipv4_address: 172.19.0.5
+  order:
+    build: ./order
+    container_name: order
+    volumes:
+      - ./order/log:/usr/src/app/log
+    networks:
+         mynet:
+            ipv4_address: 172.19.0.4
+  purchase:
+    build: ./purchase
+    container_name: purchase
+    ports:
+      - "5000:8000"
+    volumes:
+      - ./purchase/log:/usr/src/app/log
+    networks:
+         mynet:
+            ipv4_address: 172.19.0.3
+  consul:
+    image: consul:latest
+    container_name: consul1
+    ports:
+      - 8500:8500
+      - 8600:8600
+      - 8600:8600/udp
+    volumes:
+      - ./consul.d:/etc/consul.d
+    networks:
+         mynet:
+            ipv4_address: 172.19.0.2
+    command: agent -server -ui -bootstrap -node=consul1 -bind=0.0.0.0 -client=0.0.0.0 -datacenter=dc1 -config-dir=/etc/consul.d 
+
+networks:
+   mynet:
+      ipam:
+         config:
+         - subnet: 172.19.0.0/16
+           gateway: 172.19.0.1
+

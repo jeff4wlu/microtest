@@ -1,0 +1,49 @@
+{
+    "services": [
+        {
+            "name": "invoice",
+            "tags": [
+                "invoice_example"
+            ],
+            "address": "172.19.0.5",
+            "port": 8000,
+            "checks": [
+                {
+                    "http": "http://172.19.0.5:8000/",
+                    "interval": "10s",
+                    "timeout": "1s"
+                }
+            ]
+        },
+        {
+            "name": "order",
+            "tags": [
+                "order_example"
+            ],
+            "address": "172.19.0.4",
+            "port": 8000,
+            "checks": [
+                {
+                    "http": "http://172.19.0.4:8000/",
+                    "interval": "10s",
+                    "timeout": "1s"
+                }
+            ]
+        },
+        {
+            "name": "purchase",
+            "tags": [
+                "purchase_example"
+            ],
+            "address": "172.19.0.3",
+            "port": 8000,
+            "checks": [
+                {
+                    "http": "http://172.19.0.3:8000/",
+                    "interval": "10s",
+                    "timeout": "1s"
+                }
+            ]
+        }
+    ]
+}

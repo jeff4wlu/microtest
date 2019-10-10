@@ -1,0 +1,430 @@
+[2019-09-26 17:00:06 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-26 17:00:06 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-26 17:00:06 +0800] [1] [INFO] Using worker: gevent
+[2019-09-26 17:00:06 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-26 17:00:06 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-26 17:00:06 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-26 17:00:06 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-26 17:00:06 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-26 17:08:27 +0800] [1] [INFO] Handling signal: term
+[2019-09-26 17:08:28 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-26 17:08:28 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-26 17:08:28 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-26 17:08:28 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-26 17:08:28 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-26 17:08:28 +0800] [1] [INFO] Shutting down: Master
+[2019-09-26 17:20:49 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-26 17:20:49 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-26 17:20:49 +0800] [1] [INFO] Using worker: gevent
+[2019-09-26 17:20:49 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-26 17:20:49 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-26 17:20:49 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-26 17:20:49 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-26 17:20:49 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-26 17:26:58 +0800] [1] [INFO] Handling signal: term
+[2019-09-26 17:26:58 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-26 17:26:59 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-26 17:26:59 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-26 17:26:59 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-26 17:26:59 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-26 17:26:59 +0800] [1] [INFO] Shutting down: Master
+[2019-09-26 17:28:02 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-26 17:28:02 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-26 17:28:02 +0800] [1] [INFO] Using worker: gevent
+[2019-09-26 17:28:02 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-26 17:28:02 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-26 17:28:03 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-26 17:28:03 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-26 17:28:03 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-26 17:28:05 +0800] [1] [INFO] Handling signal: term
+[2019-09-26 17:28:05 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-26 17:28:06 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-26 17:28:06 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-26 17:28:06 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-26 17:28:06 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-26 17:28:06 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 10:39:10 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 10:39:10 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 10:39:10 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 10:39:10 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 10:39:10 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 10:39:10 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 10:39:10 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 10:39:10 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 10:42:17 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 10:42:17 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 10:42:18 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 10:42:18 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 10:42:18 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 10:42:18 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 10:42:18 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 11:10:31 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 11:10:31 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 11:10:31 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 11:10:31 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 11:10:31 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 11:10:31 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 11:10:31 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 11:10:31 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 11:54:37 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 11:54:37 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 11:54:37 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 11:54:37 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 11:54:38 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 11:54:38 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 11:54:38 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 12:18:04 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 12:18:04 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 12:18:04 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 12:18:04 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 12:18:04 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 12:18:04 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 12:18:04 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 12:18:05 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 13:32:17 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 13:32:17 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 13:32:17 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 13:32:17 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 13:32:17 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 13:32:17 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 13:32:18 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 13:52:16 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 13:52:16 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 13:52:16 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 13:52:16 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 13:52:16 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 13:52:16 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 13:52:16 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 13:52:16 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 13:54:34 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 13:54:34 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 13:54:35 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 13:54:35 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 13:54:35 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 13:54:35 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 13:54:35 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 14:05:31 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 14:05:31 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 14:05:31 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 14:05:31 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 14:05:31 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 14:05:31 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 14:05:31 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 14:05:31 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 14:07:50 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 14:07:51 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 14:07:51 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 14:07:51 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 14:07:51 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 14:07:51 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 14:07:51 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 14:13:52 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 14:13:52 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 14:13:52 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 14:13:52 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 14:13:52 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 14:13:52 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 14:13:52 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 14:13:52 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 14:24:20 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 14:24:20 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 14:24:20 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 14:24:20 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 14:24:21 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 14:24:21 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 14:24:21 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 14:28:24 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 14:28:24 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 14:28:24 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 14:28:24 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 14:28:24 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 14:28:24 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 14:28:24 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 14:28:24 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 14:28:25 +0800] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 14:28:25 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 14:28:25 +0800] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 14:28:25 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 14:28:26 +0800] [11] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 14:28:26 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 14:28:26 +0800] [12] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 14:28:26 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 14:28:26 +0800] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 14:28:26 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 15:07:21 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:07:21 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:07:21 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:07:21 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:07:21 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:07:21 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:07:21 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:07:21 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 15:07:22 +0800] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 15:07:22 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 15:07:22 +0800] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.5/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/usr/src/app/invoice.py", line 14, in <module>
+    @app.route('/', method = ['GET'])
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/flask/app.py", line 1274, in add_url_rule
+    rule = self.url_rule_class(rule, methods=methods, **options)
+TypeError: __init__() got an unexpected keyword argument 'method'
+[2019-09-27 15:07:22 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 15:21:15 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:21:15 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:21:15 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:21:15 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:21:15 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:21:15 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:21:15 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:21:15 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 15:31:15 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 15:31:15 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 15:31:15 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 15:31:16 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 15:31:16 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 15:31:16 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 15:31:16 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 15:35:57 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:35:57 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:35:57 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:35:57 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:35:57 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:35:57 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:35:57 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:35:57 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 15:38:32 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 15:38:32 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 15:38:32 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 15:38:32 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 15:38:33 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 15:38:33 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 15:38:33 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 15:41:43 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:41:43 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:41:43 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:41:43 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:41:43 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:41:43 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:41:43 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:41:43 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 15:42:15 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 15:42:16 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 15:42:16 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 15:42:16 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 15:42:16 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 15:42:16 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 15:42:16 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 15:50:15 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:50:15 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:50:15 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:50:15 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:50:15 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:50:15 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:50:15 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:50:15 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 15:54:05 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 15:54:06 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 15:54:06 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 15:54:06 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 15:54:06 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 15:54:06 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 15:54:06 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 15:55:41 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 15:55:41 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 15:55:41 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 15:55:41 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 15:55:41 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 15:55:41 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 15:55:41 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 15:55:41 +0800] [12] [INFO] Booting worker with pid: 12
+[2019-09-27 16:15:02 +0800] [1] [INFO] Handling signal: term
+[2019-09-27 16:15:03 +0800] [9] [INFO] Worker exiting (pid: 9)
+[2019-09-27 16:15:03 +0800] [10] [INFO] Worker exiting (pid: 10)
+[2019-09-27 16:15:03 +0800] [11] [INFO] Worker exiting (pid: 11)
+[2019-09-27 16:15:03 +0800] [12] [INFO] Worker exiting (pid: 12)
+[2019-09-27 16:15:03 +0800] [8] [INFO] Worker exiting (pid: 8)
+[2019-09-27 16:15:03 +0800] [1] [INFO] Shutting down: Master
+[2019-09-27 16:17:43 +0800] [1] [INFO] Starting gunicorn 19.9.0
+[2019-09-27 16:17:43 +0800] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[2019-09-27 16:17:43 +0800] [1] [INFO] Using worker: gevent
+[2019-09-27 16:17:43 +0800] [8] [INFO] Booting worker with pid: 8
+[2019-09-27 16:17:43 +0800] [9] [INFO] Booting worker with pid: 9
+[2019-09-27 16:17:43 +0800] [10] [INFO] Booting worker with pid: 10
+[2019-09-27 16:17:43 +0800] [11] [INFO] Booting worker with pid: 11
+[2019-09-27 16:17:43 +0800] [12] [INFO] Booting worker with pid: 12
